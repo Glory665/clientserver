@@ -158,3 +158,5 @@ print('encoding: ', encoding)
 with open('test.txt', 'r', encoding=encoding) as f:
     content = f.read()
 print(content)
+
+##########################################################################
